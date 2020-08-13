@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24-May-2018, 22:37:21
+    Author     : Ahmed Ali
+*/
+/*
+.imageview{
+-fx-scale-x: 5;
+
+
+
+}*/
+.button{
+    -fx-background-color: greenyellow;
+    -fx-content-display: top;
+    -fx-cursor: hand;
+    
+ 
+    -fx-scale-x: 2;
+    -fx-scale-y: 2;
+}
+.button:hover{
+-fx-background-color: blue;
+    -fx-text-fill: white;   
+  
+
+}
+.list{
+    -fx-display:none; 
+}
+/*
+.label{
+  
+    -fx-text-fill: black;
+    -fx-scale-x: 2;
+    -fx-scale-y: 2;
+   
+}*/

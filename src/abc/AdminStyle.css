@@ -1,0 +1,29 @@
+
+
+.root{
+    /*-fx-background-color: #ff00cc; 
+    -fx-background-color: indigo;  */
+
+   
+}
+
+.button{
+    -fx-background-color: greenyellow;
+    -fx-content-display: top;
+    -fx-cursor: hand;
+    
+ 
+    -fx-scale-x: 2;
+    -fx-scale-y: 2;
+}
+.button:hover{
+   
+  
+    -fx-background-color: blue;
+    -fx-text-fill: white;
+}
+.label{
+    -moz-text-decoration-color: white;
+    
+    
+}
